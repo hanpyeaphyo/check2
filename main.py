@@ -2,7 +2,7 @@ import requests
 import telebot,time
 import time
 from telebot import types
-from rrrr import Tele
+from ggg import Tele
 import os
 token = '8057302563:AAHP3pluJYyNDDlWrDVjoc9uuzTmZW-4uCw' #bottoken
 bot=telebot.TeleBot(token,parse_mode="HTML")
